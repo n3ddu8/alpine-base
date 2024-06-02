@@ -77,7 +77,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [forks-url]: https://github.com/n3ddu8/alpine-odbc/network/members
 [stars-shield]: https://img.shields.io/github/stars/n3ddu8/alpine-odbc.svg?style=for-the-badge
 [stars-url]: https://github.com/n3ddu8/alpine-odbc/stargazers
-[issues-shield]: https://img.shields.io/github/issues/n3ddu8/apline-odbc.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/n3ddu8/alpine-odbc.svg?style=for-the-badge
 [issues-url]: https://github.com/n3ddu8/alpine-odbc/issues
 [license-shield]: https://img.shields.io/github/license/n3ddu8/alpine-odbc.svg?style=for-the-badge
 [license-url]: https://github.com/n3ddu8/alpine-odbc/blob/master/LICENSE.txt
