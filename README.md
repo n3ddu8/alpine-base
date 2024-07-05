@@ -126,7 +126,7 @@ podman build .
 
 While this container can be launched locally using the instructions above, it is really meant to be used as a base image for downstream workflows. For instance, to use it as a base in a new Dockerfile add the line:
 ```sh
-FROM ghcr.io/n3ddu8/alpine-odbc:nightly
+FROM ghcr.io/n3ddu8/alpine-base:nightly
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
