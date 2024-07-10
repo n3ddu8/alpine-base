@@ -80,7 +80,12 @@ An Alpine:latest container image with basic tooling:
 * curl
 * Python3
 * Pip for Python3
-* Microsoft ODBC driver 17
+* Microsoft ODBC driver 17 for working with SQL Server
+* Misc packages required to work with:
+    * Sqlite
+    * MySQL
+    * MariaDB
+    * PostgreSQL
 
 ### Why Alpine
 
